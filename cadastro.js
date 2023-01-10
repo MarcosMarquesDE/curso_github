@@ -3,3 +3,9 @@ function singUp(email){
 }
 
 // pegando email e cadastrando na plataforma
+
+function mostraMensagem(){
+    return "Bem vindo ao sistema";
+}
+
+// adicionando função de mensagem
