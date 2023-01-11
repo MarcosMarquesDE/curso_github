@@ -1,0 +1,3 @@
+LISTAGEM DE TODOS OUSUARIOS DA NOSSA PLATAFORMA
+
+buscar > nome > email e ID
